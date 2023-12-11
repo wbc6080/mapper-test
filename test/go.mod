@@ -1,4 +1,4 @@
-module github.com/wbc6080/Template/test
+module github.com/wbc6080/mapper-test/Template/test
 
 go 1.20
 
